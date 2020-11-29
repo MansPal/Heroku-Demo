@@ -1,0 +1,1 @@
+web: gunicorn ANNPrac1 : app
